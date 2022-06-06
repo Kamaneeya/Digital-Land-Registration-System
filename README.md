@@ -1,0 +1,2 @@
+# Digital-Land-Registration-System
+Land administration and registration system is the system for storing land information and managing transactions involving land titles Due to the sensitivity of land issues, land administration and registration system should be strong to avoid any document forgery, available all the time, and take a short time to complete tasks Thus, this study aims at designing a model for such system based on blockchain technology
